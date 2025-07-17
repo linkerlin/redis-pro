@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3BDB1ACD2E28875C007D7E8D /* ARCH.md in Resources */ = {isa = PBXBuildFile; fileRef = 3BDB1ACC2E28875C007D7E8D /* ARCH.md */; };
 		4301C82F26B0EEB800C08E19 /* Stopwatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4301C82E26B0EEB800C08E19 /* Stopwatch.swift */; };
 		4301C84526BBE68400C08E19 /* SSHAuthentication.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4301C84426BBE68400C08E19 /* SSHAuthentication.swift */; };
 		4301C86426BBF62600C08E19 /* SSHRediStackClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4301C86326BBF62600C08E19 /* SSHRediStackClient.swift */; };
@@ -213,6 +214,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3BDB1ACC2E28875C007D7E8D /* ARCH.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ARCH.md; sourceTree = "<group>"; };
 		4301C82E26B0EEB800C08E19 /* Stopwatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stopwatch.swift; sourceTree = "<group>"; };
 		4301C84426BBE68400C08E19 /* SSHAuthentication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SSHAuthentication.swift; sourceTree = "<group>"; };
 		4301C86326BBF62600C08E19 /* SSHRediStackClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SSHRediStackClient.swift; sourceTree = "<group>"; };
@@ -486,6 +488,7 @@
 				43F22EE8269E7F9500A00F97 /* README.zh_CN.md */,
 				621531FF27775260009F0F41 /* .gitignore */,
 				431FD84226BD2F1200151934 /* CHANGELOG.md */,
+				3BDB1ACC2E28875C007D7E8D /* ARCH.md */,
 				43CD2868267091B600E11876 /* .version */,
 			);
 			sourceTree = "<group>";
@@ -971,6 +974,7 @@
 				4320AAFB25B6740A00A8E214 /* Preview Assets.xcassets in Resources */,
 				431FD84326BD2F1200151934 /* CHANGELOG.md in Resources */,
 				43CD289E26732F4C00E11876 /* Localizable.strings in Resources */,
+				3BDB1ACD2E28875C007D7E8D /* ARCH.md in Resources */,
 				43F22EE9269E7F9500A00F97 /* README.zh_CN.md in Resources */,
 				4320AAF825B6740A00A8E214 /* Assets.xcassets in Resources */,
 				43F22EE3269C2D6600A00F97 /* TextViewController.xib in Resources */,
